@@ -1,4 +1,4 @@
-#Experian Change Calculator API
+### Experian Change Calculator API
 
 The Change Calculator API is a service that calculates the optimal change denominations to be returned based on the amount purchased and the amount paid. This API follows the SOLID principles, allowing for easy modification and extension of the change calculation logic.
 
