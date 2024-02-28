@@ -1,0 +1,6 @@
+@Experian_ChangeCalcService_HostAddress = http://localhost:5212
+
+GET {{Experian_ChangeCalcService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
